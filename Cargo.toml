@@ -1,0 +1,25 @@
+[package]
+name = "acropalypse-gif"
+version = "0.1.0"
+authors = ["heriet <heriet@heriet.info>"]
+description = "aCropalypse gif PoC"
+repository = "https://github.com/heriet/acropalypse-gif"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+exclude = ["example/", ".github/"]
+
+[[bin]]
+name = "acropalypse-gif"
+path = "src/main.rs"
+
+[dependencies]
+anyhow = "1.0.70"
+bitstream-io = "1.6.0"
+byteorder = "1.4.3"
+gif = "0.12.0"
+thiserror = "1.0.40"
+weezl = "0.1.7"
+
+
+[build-dependencies]

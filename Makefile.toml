@@ -1,0 +1,7 @@
+[tasks.help]
+command = "cargo"
+args = ["run", "--bin=acropalypse-gif", "--", "help"]
+
+[tasks.case01-restore]
+command = "cargo"
+args = ["run", "--bin=acropalypse-gif", "--", "restore", "asset/case01_crop.gif", "619", "232"]

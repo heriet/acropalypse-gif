@@ -1,0 +1,20 @@
+version: "3.8"
+
+services:
+  dev:
+    build:
+        context: ./
+        dockerfile: dev.dockerfile
+    image: acropalypse-gif-dev:latest
+    container_name: acropalypse-gif-dev
+    volumes:
+      - ./:/work
+
+  acropalypse-gif:
+    build:
+        context: ./
+        dockerfile: acropalypse-gif.dockerfile
+    image: acropalypse-gif:latest
+    container_name: acropalypse-gif
+    volumes:
+      - ./:/work
