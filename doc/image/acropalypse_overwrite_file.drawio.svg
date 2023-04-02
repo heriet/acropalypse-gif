@@ -1,0 +1,72 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="624px" height="241px" viewBox="-0.5 -0.5 624 241" content="&lt;mxfile&gt;&lt;diagram id=&quot;TgeT-ShtBeDU3oJvheAU&quot; name=&quot;Page-1&quot;&gt;5VfLrtsgEP0aS+2mwuA4zjLJTR+LqossuiYB2+hisDCpk359hxi/6kRt73VVKc0mcGYGmDOHsR2QbXH+YGiZf9aMywAjdg7IU4BxSEIEfw65NEi8WjRAZgTzTj2wF9+5B31cdhKMVyNHq7W0ohyDR60UP9oRRo3R9dgt1XK8a0kzPgH2Ryqn6FfBbN6gCV72+EcusrzdOYxXjaWgrbPPpMop0/UAIruAbI3WthkV5y2XjryWlybu/R1rdzDDlf2dANwEfKPy5HPz57KXNlmjT4px548CsqlzYfm+pEdnraG8gOW2kDALYZgKKbdaanONJeGBhhw7XCs7wNPrD/DKGv3MBxaE4t0aTrvxB+PG8vPd5MKOMtAa1wW35gIuPiDyJHuVJX5a9yULY4/lg3Jh5EHqZZJ1K/dMwsCTeZtYMiH2ixGZUNQ5fSqcwDDawNwvO2QcMrZjWsc0Ka34T1x7iEqRKZgegSEO+MbxJ0C4a28oBGNum5t1HFd6hgKQxagA0Y0CLG8UgMzAf/R3hc0ShJbkT4S9XiAUzcQrjl+m7NUMxC4mxEK7KkvgcarrWDodHwyMMjd6c3BJKGhucAYXRuWlrFwETVNo1NdFKp3aGqh4+7j3olP4/YvRPevmvhjJQ3f85B+2/NUjt5yXMjtHy2mvwit6zv/cbaIYv/v1g7h9BX9lv4Fp//Z6tQ2+AcjuBw==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="5" y="40" width="160" height="200" fill="#1ba1e2" stroke="#006eaf" pointer-events="all"/>
+        <rect x="0" y="0" width="170" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 168px; height: 1px; padding-top: 15px; margin-left: 1px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                Original Image Binary
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="85" y="19" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Original Image Binary
+                </text>
+            </switch>
+        </g>
+        <rect x="225" y="40" width="160" height="90" fill="#d80073" stroke="#a50040" pointer-events="all"/>
+        <rect x="195" y="0" width="210" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 208px; height: 1px; padding-top: 15px; margin-left: 196px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                Cropped Image Binary
+                                <br/>
+                                (by not aCropalypse affected software)
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="300" y="19" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Cropped Image Binary...
+                </text>
+            </switch>
+        </g>
+        <rect x="445" y="40" width="160" height="200" fill="#1ba1e2" stroke="#006eaf" pointer-events="all"/>
+        <rect x="445" y="40" width="160" height="90" fill="#d80073" stroke="#a50040" pointer-events="all"/>
+        <rect x="427.5" y="0" width="195" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 193px; height: 1px; padding-top: 15px; margin-left: 429px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                Cropped Image Binary
+                                <br/>
+                                (by aCropalypse affected software)
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="525" y="19" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Cropped Image Binary...
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>

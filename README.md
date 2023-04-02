@@ -72,6 +72,8 @@ docker compose run --rm acropalypse-gif restore asset/case01_crop.gif 619 232
 
 TBD.
 
+- [Exploit Detail (Japanese)](doc/exploit_detail_ja.md)
+
 ### Algorithm
 
 - Search Image Data Sub-block. It may be start `0xFF` and verify GIF Image Data format.
