@@ -70,9 +70,8 @@ docker compose run --rm acropalypse-gif restore asset/case01_crop.gif 619 232
 
 ## Exploit Detail
 
-TBD.
-
-- [Exploit Detail (Japanese)](doc/exploit_detail_ja.md)
+- [Exploit Detail](doc/exploit_detail.md)
+  - [Exploit Detail (Japanese)](doc/exploit_detail_ja.md)
 
 ### Algorithm
 
